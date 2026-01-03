@@ -47,25 +47,25 @@ const Home = () => {
       image: 'https://images.unsplash.com/photo-1761361414308-b1b683d1f33a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NzB8MHwxfHNlYXJjaHwxfHx0YWJsZXRzJTIwY2Fwc3VsZXN8ZW58MHx8fHwxNzY3NDI2MDQ3fDA&ixlib=rb-4.1.0&q=85',
       examples: 'Hard Gelatin, Sustained Release'
     },
-    {
-      name: 'Oral Liquids',
-      image: 'https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NzB8MHwxfHNlYXJjaHwyfHx0YWJsZXRzJTIwY2Fwc3VsZXN8ZW58MHx8fHwxNzY3NDI2MDQ3fDA&ixlib=rb-4.1.0&q=85',
-      examples: 'Syrups, Suspensions, Drops'
-    },
+    // {
+    //   name: 'Oral Liquids',
+    //   image: 'https://images.unsplash.com/photo-1607619056574-7b8d3ee536b2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NzB8MHwxfHNlYXJjaHwyfHx0YWJsZXRzJTIwY2Fwc3VsZXN8ZW58MHx8fHwxNzY3NDI2MDQ3fDA&ixlib=rb-4.1.0&q=85',
+    //   examples: 'Syrups, Suspensions, Drops'
+    // },
     {
       name: 'Powders / Dry Syrups',
       image: 'https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NzB8MHwxfHNlYXJjaHwzfHx0YWJsZXRzJTIwY2Fwc3VsZXN8ZW58MHx8fHwxNzY3NDI2MDQ3fDA&ixlib=rb-4.1.0&q=85',
       examples: 'Oral Powders, Reconstitutable Dry Syrups'
     },
-    {
-      name: 'Topicals',
-      image: 'https://images.pexels.com/photos/208512/pexels-photo-208512.jpeg',
-      examples: 'Creams, Ointments, Gels'
-    },
+    // {
+    //   name: 'Topicals',
+    //   image: 'https://images.pexels.com/photos/208512/pexels-photo-208512.jpeg',
+    //   examples: 'Creams, Ointments, Gels'
+    // },
     {
       name: 'Sterile Preparations',
       image: 'https://images.pexels.com/photos/3938023/pexels-photo-3938023.jpeg',
-      examples: 'Injectables, Vials, Ampoules'
+      examples: 'Injectables, Vials'
     }
   ];
 
